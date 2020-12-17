@@ -1,0 +1,4 @@
+1. Prompt user's height
+2. If height is less than 1 or greater than 8 or not an integer, go back one step
+3. Iterate from 1 through height
+4. print the number of i with the new line
